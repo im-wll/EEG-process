@@ -1,0 +1,180 @@
+Train Loss: 0.7518 Acc: 0.1139
+Train Loss: 0.7518 Acc: 0.1139
+Test Acc: 0.2200  precision: 0.0888 recall: 0.2292 F1: 0.1181
+Train Loss: 0.7511 Acc: 0.1139
+Test Acc: 0.2000  precision: 0.0595 recall: 0.2083 F1: 0.0926
+Train Loss: 0.7518 Acc: 0.1139
+Test Acc: 0.2200  precision: 0.0888 recall: 0.2292 F1: 0.1181
+Train Loss: 0.7511 Acc: 0.1139
+Test Acc: 0.2000  precision: 0.0595 recall: 0.2083 F1: 0.0926
+Training complete in 0m 8s
+Best val Acc : 0.113924 on epoch 1
+Train Loss: 0.7518 Acc: 0.1139
+Test Acc: 0.2200  precision: 0.0888 recall: 0.2292 F1: 0.1181
+Train Loss: 0.7511 Acc: 0.1139
+Test Acc: 0.2000  precision: 0.0595 recall: 0.2083 F1: 0.0926
+Training complete in 0m 8s
+Best test Acc : 0.220000 on epoch 0
+Train Loss: 0.7518 Acc: 0.1139
+Test Acc: 0.2200  precision: 0.0888 recall: 0.2292 F1: 0.1181
+Train Loss: 0.7511 Acc: 0.1139
+Test Acc: 0.2000  precision: 0.0595 recall: 0.2083 F1: 0.0926
+Train Loss: 0.7499 Acc: 0.1097
+Test Acc: 0.2200  precision: 0.0585 recall: 0.2292 F1: 0.0932
+Train Loss: 0.7484 Acc: 0.1224
+Test Acc: 0.2400  precision: 0.1835 recall: 0.2519 F1: 0.1317
+Train Loss: 0.7467 Acc: 0.1350
+Test Acc: 0.2600  precision: 0.1625 recall: 0.2746 F1: 0.1607
+Train Loss: 0.7449 Acc: 0.1435
+Test Acc: 0.2800  precision: 0.1339 recall: 0.2955 F1: 0.1637
+Train Loss: 0.7431 Acc: 0.1646
+Test Acc: 0.2800  precision: 0.1300 recall: 0.2973 F1: 0.1746
+Train Loss: 0.7413 Acc: 0.1941
+Test Acc: 0.3000  precision: 0.1415 recall: 0.3201 F1: 0.1940
+Train Loss: 0.7396 Acc: 0.2025
+Test Acc: 0.3200  precision: 0.1578 recall: 0.3447 F1: 0.2164
+Train Loss: 0.7380 Acc: 0.2194
+Test Acc: 0.3200  precision: 0.1626 recall: 0.3466 F1: 0.2207
+Training complete in 0m 38s
+Best test Acc : 0.320000 on epoch 8
+Train Loss: 1.3428 Acc: 0.2735
+Test Acc: 0.3200  precision: 0.2488 recall: 0.3019 F1: 0.2566
+Train Loss: 1.3345 Acc: 0.3022
+Test Acc: 0.2600  precision: 0.1826 recall: 0.2621 F1: 0.2111
+Train Loss: 1.3289 Acc: 0.3190
+Test Acc: 0.2400  precision: 0.1887 recall: 0.2473 F1: 0.2129
+Train Loss: 1.3231 Acc: 0.3321
+Test Acc: 0.3000  precision: 0.2307 recall: 0.3057 F1: 0.2560
+Train Loss: 1.3165 Acc: 0.3425
+Test Acc: 0.3400  precision: 0.2744 recall: 0.3390 F1: 0.2957
+Train Loss: 1.3086 Acc: 0.3553
+Test Acc: 0.3600  precision: 0.2786 recall: 0.3640 F1: 0.3018
+Train Loss: 1.2997 Acc: 0.3740
+Test Acc: 0.3600  precision: 0.2643 recall: 0.3640 F1: 0.2984
+Train Loss: 1.2902 Acc: 0.3836
+Test Acc: 0.3400  precision: 0.2403 recall: 0.3473 F1: 0.2778
+Train Loss: 1.2808 Acc: 0.3927
+Test Acc: 0.3200  precision: 0.2298 recall: 0.3307 F1: 0.2659
+Train Loss: 1.2722 Acc: 0.3959
+Test Acc: 0.3800  precision: 0.2975 recall: 0.3928 F1: 0.3261
+Training complete in 10m 37s
+Best test Acc : 0.380000 on epoch 9
+Train Loss: 0.7518 Acc: 0.1139
+Test Acc: 0.2200  precision: 0.0888 recall: 0.2292 F1: 0.1181
+Train Loss: 0.7511 Acc: 0.1139
+Test Acc: 0.2000  precision: 0.0595 recall: 0.2083 F1: 0.0926
+Training complete in 0m 9s
+Best test Acc : 0.220000 on epoch 0
+Train Loss: 0.8803 Acc: 0.1477
+Test Acc: 0.3000  precision: 0.2464 recall: 0.2746 F1: 0.2307
+Train Loss: 0.8785 Acc: 0.1477
+Test Acc: 0.2800  precision: 0.2396 recall: 0.2830 F1: 0.2178
+Train Loss: 0.8758 Acc: 0.1899
+Test Acc: 0.3000  precision: 0.4417 recall: 0.3121 F1: 0.2032
+Train Loss: 0.8731 Acc: 0.1941
+Test Acc: 0.2800  precision: 0.1902 recall: 0.2955 F1: 0.1701
+Train Loss: 0.8706 Acc: 0.1857
+Test Acc: 0.2800  precision: 0.1902 recall: 0.2955 F1: 0.1701
+Train Loss: 0.8683 Acc: 0.1899
+Test Acc: 0.2800  precision: 0.1902 recall: 0.2955 F1: 0.1701
+Train Loss: 0.8660 Acc: 0.1941
+Test Acc: 0.2800  precision: 0.1902 recall: 0.2955 F1: 0.1701
+Train Loss: 0.8633 Acc: 0.2025
+Test Acc: 0.3000  precision: 0.4182 recall: 0.3121 F1: 0.2009
+Train Loss: 0.8600 Acc: 0.2194
+Test Acc: 0.3000  precision: 0.4182 recall: 0.3121 F1: 0.2009
+Train Loss: 0.8559 Acc: 0.2321
+Test Acc: 0.3400  precision: 0.3065 recall: 0.3473 F1: 0.2670
+Training complete in 0m 44s
+Best test Acc : 0.340000 on epoch 9
+Train Loss: 1.3518 Acc: 0.2743
+Test Acc: 0.3200  precision: 0.2389 recall: 0.3186 F1: 0.2279
+Train Loss: 1.3321 Acc: 0.3202
+Test Acc: 0.4000  precision: 0.3103 recall: 0.4136 F1: 0.3140
+Train Loss: 1.2924 Acc: 0.3664
+Test Acc: 0.3800  precision: 0.2450 recall: 0.4030 F1: 0.2839
+Train Loss: 1.2690 Acc: 0.3736
+Test Acc: 0.3800  precision: 0.1995 recall: 0.4091 F1: 0.2682
+Train Loss: 1.2576 Acc: 0.3923
+Test Acc: 0.4200  precision: 0.2953 recall: 0.4485 F1: 0.3121
+Train Loss: 1.2423 Acc: 0.3995
+Test Acc: 0.4400  precision: 0.3019 recall: 0.4652 F1: 0.3459
+Train Loss: 1.2220 Acc: 0.4226
+Test Acc: 0.4800  precision: 0.3607 recall: 0.4985 F1: 0.3917
+Train Loss: 1.1879 Acc: 0.4354
+Test Acc: 0.5000  precision: 0.3729 recall: 0.5030 F1: 0.4196
+Train Loss: 1.1558 Acc: 0.4565
+Test Acc: 0.5000  precision: 0.3585 recall: 0.4909 F1: 0.4094
+Train Loss: 1.1292 Acc: 0.4749
+Test Acc: 0.5600  precision: 0.4172 recall: 0.5470 F1: 0.4624
+Training complete in 10m 20s
+Best test Acc : 0.560000 on epoch 9
+Train Loss: 0.8836 Acc: 0.1688
+Test Acc: 0.2400  precision: 0.1746 recall: 0.2250 F1: 0.1960
+Training complete in 0m 16s
+Best test Acc : 0.240000 on epoch 0
+Train Loss: 0.8836 Acc: 0.1688
+Test Acc: 0.2400  precision: 0.1746 recall: 0.2250 F1: 0.1960
+Training complete in 0m 7s
+Best test Acc : 0.240000 on epoch 0
+Train Loss: 0.8886 Acc: 0.1435
+Test Acc: 0.2000  precision: 0.0929 recall: 0.2083 F1: 0.1236
+Training complete in 0m 17s
+Best test Acc : 0.200000 on epoch 0
+Train Loss: 0.8803 Acc: 0.1477
+Test Acc: 0.3000  precision: 0.2464 recall: 0.2746 F1: 0.2307
+Training complete in 0m 5s
+Best test Acc : 0.300000 on epoch 0
+Train Loss: 1.3907 Acc: 0.2366
+Test Acc: 0.3125  precision: 0.1970 recall: 0.3192 F1: 0.2166
+Training complete in 1m 17s
+Best test Acc : 0.312500 on epoch 0
+Train Loss: 1.3907 Acc: 0.2366
+Test Acc: 0.3301  precision: 0.1973 recall: 0.3364 F1: 0.2322
+Training complete in 1m 15s
+Best test Acc : 0.330078 on epoch 0
+Train Loss: 1.4828 Acc: 0.2375
+Test Acc: 0.2539  precision: 0.1192 recall: 0.2538 F1: 0.1086
+Training complete in 2m 1s
+Best test Acc : 0.253906 on epoch 0
+Train Loss: 1.4519 Acc: 0.2532
+Test Acc: 0.2871  precision: 0.2121 recall: 0.2859 F1: 0.2194
+Training complete in 3m 42s
+Best test Acc : 0.287109 on epoch 0
+Train Loss: 1.3907 Acc: 0.2366
+Test Acc: 0.3301  precision: 0.1973 recall: 0.3364 F1: 0.2322
+Training complete in 1m 13s
+Best test Acc : 0.330078 on epoch 0
+Train Loss: 1.3938 Acc: 0.2168
+Train Loss: 1.3938 Acc: 0.2168
+Train Loss: 1.3938 Acc: 0.2168
+Training complete in 0m 21s
+Train Loss: 1.3938 Acc: 0.2168
+Training complete in 0m 18s
+Train Loss: 1.3907 Acc: 0.2366
+Test Acc: 0.3301  precision: 0.1973 recall: 0.3364 F1: 0.2322
+Training complete in 1m 11s
+Best test Acc : 0.330078 on epoch 0
+Train Loss: 1.3938 Acc: 0.2168
+Training complete in 0m 18s
+Train Loss: 1.3944 Acc: 0.2600
+Test Acc: 0.2539  precision: 0.0635 recall: 0.2500 F1: 0.1012
+Training complete in 1m 6s
+Best test Acc : 0.253906 on epoch 0
+Train Loss: 1.4083 Acc: 0.2410
+Train Loss: 1.3944 Acc: 0.2600
+Test Acc: 0.2539  precision: 0.0635 recall: 0.2500 F1: 0.1012
+Training complete in 1m 14s
+Best test Acc : 0.253906 on epoch 0
+Train Loss: 1.3891 Acc: 0.2449
+Test Acc: 0.2656  precision: 0.1373 recall: 0.2628 F1: 0.1433
+Training complete in 1m 5s
+Best test Acc : 0.265625 on epoch 0
+Train Loss: 1.3891 Acc: 0.2449
+Test Acc: 0.2656  precision: 0.1373 recall: 0.2628 F1: 0.1433
+Training complete in 1m 4s
+Best test Acc : 0.265625 on epoch 0
+Train Loss: 1.3873 Acc: 0.2498
+Test Acc: 0.2500  precision: 0.0625 recall: 0.2500 F1: 0.1000
+Training complete in 1m 10s
+Best test Acc : 0.250000 on epoch 0
